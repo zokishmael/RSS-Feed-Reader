@@ -1,1 +1,7 @@
-let userFeedURLs = [https://www.blogger.com/feeds/3199727266253005950/posts/default];
+let userFeedURLs = [
+  
+  {
+			"url": "https://bovons.blogspot.com/feeds/posts/default"
+		}
+  
+];
