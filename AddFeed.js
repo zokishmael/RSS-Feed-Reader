@@ -22,7 +22,7 @@ function addFeedURL(url) {
         return;
     }
     userFeedURLs.push(url);
-    document.getElementById("input").value = "https://www.blogger.com/feeds/3199727266253005950/posts/default";
+    document.getElementById("input").value = "";
 
     var listElement = "<li class=\"list-group-item border border-dark bg-white\"><h5>" + url + "</h5></li>"
     console.log(listElement);
