@@ -1,0 +1,15 @@
+{
+	"urls": [{
+			"name": "link 1",
+			"url": "https://bovons.blogspot.com/feeds/posts/default"
+		},
+		{
+			"name": "link 2",
+			"url": "https://bovons.blogspot.com/feeds/posts/default"
+		},
+		{
+			"name": "link 3",
+			"url": "https://bovons.blogspot.com/feeds/posts/default"
+		}
+	]
+}
