@@ -1,1 +1,12 @@
-let userFeedURLs = [];
+let userFeedURLs = [
+{
+    "url": "https://bovons.blogspot.com/feeds/posts/default",
+    "title": "Bovons"
+  },
+  {
+    "url": "https://lawu22.com.com/feeds/posts/default",
+    "title": ""
+  }
+
+  
+];
